@@ -1,0 +1,1 @@
+console.stdout("HELLO WORLD");
